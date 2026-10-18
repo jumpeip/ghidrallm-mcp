@@ -1,5 +1,10 @@
 # GhidraMCP
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+![Ghidra](https://img.shields.io/badge/Ghidra-12.1.4-red)
+![Transport](https://img.shields.io/badge/MCP-Streamable_HTTP-green)
+![Tools](https://img.shields.io/badge/tools-70-purple)
+
 A Ghidra extension (for **Ghidra 12.1.4**) that embeds a **Model Context Protocol (MCP)**
 server directly inside Ghidra. It lets an external LLM agent — Claude Code, Codex, Cline, or
 any MCP client — drive Ghidra for reverse engineering, vulnerability assessment, penetration
