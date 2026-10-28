@@ -1,4 +1,5 @@
 # GhidraMCP
+[![M8ven Score](https://m8ven.ai/badge/mcp/jumpeip/ghidrallm-mcp)](https://m8ven.ai/mcp/jumpeip/ghidrallm-mcp?s=readme)
 [![M8ven Score](https://m8ven.ai/badge/mcp/jumpeip-ghidrallm-mcp-3s3m9q?v=abbffa7ffb5b1faac10533b436583ca8)](https://m8ven.ai/mcp/jumpeip-ghidrallm-mcp-3s3m9q?s=readme)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 ![Ghidra](https://img.shields.io/badge/Ghidra-12.1.4-red)
